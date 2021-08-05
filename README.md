@@ -1,5 +1,7 @@
 ### Oiiii, bem vindo ao meu perfil 🦄
 
+23y, estudante de TI
+
 ##
 
 <div>
