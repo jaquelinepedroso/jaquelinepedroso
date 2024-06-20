@@ -1,6 +1,6 @@
 ### Hiiii, Welcome!
 
-24y, 2° period of systems analysis and development 💻
+Systems analysis and development 💻
 
 ##
 
