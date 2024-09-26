@@ -1,11 +1,10 @@
 ### Olá, Seja Bem-Vindo (a)!
 
-Me chamo Jaqueline, sou formada em Análise e Desenvolvimento de Sistemas e atuo como Analista de Dados.
+Me chamo Jaqueline, sou formada em Análise e Desenvolvimento de Sistemas e atuo profissionalmente como Analista de Dados.
 ##
 
 <div>
   <a href="https://github.com/jaquelinepedroso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaquelinepedroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinepedroso&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
